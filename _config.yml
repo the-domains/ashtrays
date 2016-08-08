@@ -22,5 +22,8 @@ navigation:
   - name: Friendshop
     id: 2e1825da-bc64-439f-a037-39afe137a2ad
     type: content
+  - name: Love&again
+    id: a0ef6cbb-ccf0-46cb-bfde-2ffae5faffca
+    type: content
 title: Why did you go to the moon ?
 description: The importance of being ashes
