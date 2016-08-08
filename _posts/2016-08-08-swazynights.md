@@ -1,19 +1,18 @@
 ---
-datePublished: '2016-08-08T11:20:06.261Z'
+datePublished: '2016-08-08T11:21:41.087Z'
 sourcePath: _posts/2016-08-08-swazynights.md
 author: []
 via: {}
-dateModified: '2016-08-08T11:20:05.462Z'
+dateModified: '2016-08-08T11:21:39.927Z'
 title: Swazynights
 publisher: {}
 description: >-
   Champagne on a deck, thank you Rob&Ness. Rock the coffee, an african tale of
   earth and sky.
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: swazynights/index.html
+_type: Blurb
 
 ---
 ![swazynights, and days... ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7e657d7-079b-4acd-a83b-c7d7f1baa497.png)
