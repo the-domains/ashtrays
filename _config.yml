@@ -12,24 +12,6 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.2364228330552578
 name: Ash&trays
-navigation:
-  - name: Swazynights
-    id: a0ef6cbb-ccf0-46cb-bfde-2ffae5faffca
-    type: content
-  - name: Friendshop
-    id: a52d80c7-9b07-448e-9d79-54789c5b5533
-    type: content
-  - name: Petits plaisirs
-    id: d8fb2673-6a4b-4e62-9e19-6b2ead7cebd1
-    type: content
-  - name: Freedom
-    id: ec91e156-4c4f-44dc-80f3-39ff10badeab
-    type: content
-  - name: Love&again
-    id: 95acafe6-b958-4df9-a796-88008b510efc
-    type: content
-  - name: Conatus
-    id: f561d1f9-438e-4c54-a3cc-33b03eba37f3
-    type: content
+navigation: []
 title: Why did you go to the moon ?
 description: The importance of being ashes
