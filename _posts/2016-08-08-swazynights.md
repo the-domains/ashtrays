@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-08T10:47:27.149Z'
+datePublished: '2016-08-08T10:57:56.831Z'
 sourcePath: _posts/2016-08-08-swazynights.md
 author: []
 via: {}
-dateModified: '2016-08-08T10:47:26.481Z'
+dateModified: '2016-08-08T10:57:56.074Z'
 title: Swazynights
 publisher: {}
 description: >-
@@ -20,3 +20,5 @@ _type: MediaObject
 
 Champagne on a deck, thank you Rob&Ness, rock the coffee, an african tale of earth and sky.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0860515f-bf67-490d-a333-e2faae5025a1.jpg)
+
+<article style=""><h1>Swaziland National Trust Commission - Swaziland Tree Atlas Project</h1><p>(Contributed by Linda Dobson-Loffler, 2005.) Background The first publication to include the flowering plants of Swaziland was completed by Dr J Burtt Davy in 1912 (Burtt Davy &amp; Pott-Leendertz, 1912). An intensive botanical survey of Swaziland followed, over an eleven-year period from 1955 to 1966, carried out by Prof.</p></article>
