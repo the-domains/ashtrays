@@ -63,17 +63,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/9-VLtpSZh7o'
 title: 'Best Sales Lesson ever by Jeremy Piven in "The Goods: Live Hard, Sell Hard"'
-datePublished: '2016-08-08T10:06:09.001Z'
-dateModified: '2016-08-08T09:58:53.516Z'
+datePublished: '2016-08-08T11:29:06.078Z'
+dateModified: '2016-08-08T11:29:05.444Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-08-best-sales-lesson-ever-by-jeremy-piven-in-the-goods-live-h.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: best-sales-lesson-ever-by-jeremy-piven-in-the-goods-live-h/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
