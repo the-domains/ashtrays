@@ -19,5 +19,8 @@ navigation:
   - name: Freedom
     id: ec91e156-4c4f-44dc-80f3-39ff10badeab
     type: content
+  - name: Friendshop
+    id: 2e1825da-bc64-439f-a037-39afe137a2ad
+    type: content
 title: Why did you go to the moon ?
 description: The importance of being ashes
