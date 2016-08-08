@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-08-08T12:20:27.120Z'
-isBasedOnUrl: 'http://famke.co.za/'
+datePublished: '2016-08-08T23:31:20.115Z'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-08T11:47:04.136Z'
+dateModified: '2016-08-08T23:31:19.289Z'
 title: Jewellery design and manufacturing studio in Cape Town.
 app_links: []
 publisher:
@@ -15,11 +14,10 @@ publisher:
     http://cdn.shopify.com/s/files/1/0414/1269/t/2/assets/favicon.png?4424961289187978810
   domain: famke.co.za
 description: ''
-starred: false
 sourcePath: _posts/2016-08-08-jewellery-design-and-manufacturing-studio-in-cape-town.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: jewellery-design-and-manufacturing-studio-in-cape-town/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
