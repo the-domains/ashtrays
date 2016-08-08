@@ -25,5 +25,8 @@ navigation:
   - name: Freedom
     id: ec91e156-4c4f-44dc-80f3-39ff10badeab
     type: content
+  - name: Love&again
+    id: 95acafe6-b958-4df9-a796-88008b510efc
+    type: content
 title: Why did you go to the moon ?
 description: The importance of being ashes
