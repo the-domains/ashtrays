@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-08T11:02:58.555Z'
+datePublished: '2016-08-08T11:08:03.630Z'
 sourcePath: _posts/2016-08-08-alexandra-margnat-e-shop.md
 isBasedOnUrl: 'http://www.alexandramargnat-eshop.com/'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-08T11:02:22.028Z'
+dateModified: '2016-08-08T11:08:02.738Z'
 title: ''
 app_links: []
 publisher: {}
-description: ''
+description: Alexandra Margnat E-shop
 starred: false
 inFeed: true
 hasPage: false
@@ -19,6 +19,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce2803a1-5d9a-4c65-919c-2d7208bfc7ff.png)
+![Alexandra Margnat E-shop](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d5a4d3df1146f883f723ad8afdd68e61/croprotate.png?cropheight=740&cropwidth=740&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fce2803a1-5d9a-4c65-919c-2d7208bfc7ff.png&x=11&y=11)
 
 <article style=""><h1>Alexandra Margnat E-shop</h1><p>Les collections s'inscrivent dans un univers qui mêle sobriété, multiplicité des couleurs et association de matières qui se mixent à l'infini. alexandra margnat</p></article>
