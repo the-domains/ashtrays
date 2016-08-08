@@ -19,5 +19,8 @@ navigation:
   - name: Friendshop
     id: a52d80c7-9b07-448e-9d79-54789c5b5533
     type: content
+  - name: Petits plaisirs
+    id: d8fb2673-6a4b-4e62-9e19-6b2ead7cebd1
+    type: content
 title: Why did you go to the moon ?
 description: The importance of being ashes
