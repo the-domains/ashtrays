@@ -1,16 +1,16 @@
-typography_spectrum: 0.8021045567002147
+typography_spectrum: 0.18120756838470697
 color:
-  brandStrength: 0.8109450999181718
-  lightness: 0.5338423645589501
-  saturation: 0.15521094063296914
-  rhythmicContrast: 0.3513652100227773
+  brandStrength: 0.19069998199120164
+  lightness: 0.17410196480341256
+  saturation: 0.8505338078830391
+  rhythmicContrast: 0.01188473287038505
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-layout_spectrum: 0.2364228330552578
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+layout_spectrum: 0.6854826952330768
 name: Ash&trays
 navigation:
   - name: Conatus
