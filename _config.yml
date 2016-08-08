@@ -1,16 +1,20 @@
-typography_spectrum: 0.6923736094031483
+typography_spectrum: 0.8021045567002147
 color:
-  brandStrength: 0.6228152711410075
-  lightness: 0.3237809045240283
-  saturation: 0.8570446190424263
-  rhythmicContrast: 0.527577108470723
+  brandStrength: 0.8109450999181718
+  lightness: 0.5338423645589501
+  saturation: 0.15521094063296914
+  rhythmicContrast: 0.3513652100227773
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-layout_spectrum: 0.857164861401543
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.2364228330552578
 name: Ash&trays
+navigation:
+  - name: Swazynights
+    id: a0ef6cbb-ccf0-46cb-bfde-2ffae5faffca
+    type: content
 title: Why did you go to the moon ?
 description: The importance of being ashes
