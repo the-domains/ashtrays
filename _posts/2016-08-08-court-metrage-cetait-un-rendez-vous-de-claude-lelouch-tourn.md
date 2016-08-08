@@ -55,19 +55,17 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/37xiW4j0TtI'
 title: >-
   Court métrage C'était un rendez vous de Claude Lelouch tourné en 1976- 8 min
   39
-datePublished: '2016-08-08T10:06:11.671Z'
-dateModified: '2016-08-08T10:05:49.073Z'
+datePublished: '2016-08-08T11:30:53.534Z'
+dateModified: '2016-08-08T11:30:52.666Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-08-court-metrage-cetait-un-rendez-vous-de-claude-lelouch-tourn.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: court-metrage-cetait-un-rendez-vous-de-claude-lelouch-tourn/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
