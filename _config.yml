@@ -22,5 +22,8 @@ navigation:
   - name: Petits plaisirs
     id: d8fb2673-6a4b-4e62-9e19-6b2ead7cebd1
     type: content
+  - name: Freedom
+    id: ec91e156-4c4f-44dc-80f3-39ff10badeab
+    type: content
 title: Why did you go to the moon ?
 description: The importance of being ashes
