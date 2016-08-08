@@ -17,16 +17,14 @@ description: >-
   nœuds dans les rafales a permis au skipper de tester son PRB tout juste remis
   à l'eau.
 app_links: []
-isBasedOnUrl: 'https://youtu.be/aPFgycnGRrY'
 title: L'Imoca 60 PRB dans la tempête
-datePublished: '2016-08-08T11:06:29.958Z'
-dateModified: '2016-08-08T11:05:59.555Z'
+datePublished: '2016-08-08T11:31:57.710Z'
+dateModified: '2016-08-08T11:31:56.529Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-08-limoca-60-prb-dans-la-tempete.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: limoca-60-prb-dans-la-tempete/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
