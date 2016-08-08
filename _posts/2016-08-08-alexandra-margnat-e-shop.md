@@ -1,20 +1,18 @@
 ---
-datePublished: '2016-08-08T11:08:03.630Z'
+datePublished: '2016-08-08T11:28:35.613Z'
 sourcePath: _posts/2016-08-08-alexandra-margnat-e-shop.md
-isBasedOnUrl: 'http://www.alexandramargnat-eshop.com/'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-08T11:08:02.738Z'
+dateModified: '2016-08-08T11:28:34.593Z'
 title: ''
 app_links: []
 publisher: {}
 description: Alexandra Margnat E-shop
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: alexandra-margnat-e-shop/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
