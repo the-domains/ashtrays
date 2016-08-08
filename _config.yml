@@ -16,5 +16,8 @@ navigation:
   - name: Conatus
     id: f561d1f9-438e-4c54-a3cc-33b03eba37f3
     type: content
+  - name: Freedom
+    id: ec91e156-4c4f-44dc-80f3-39ff10badeab
+    type: content
 title: Why did you go to the moon ?
 description: The importance of being ashes
