@@ -22,5 +22,8 @@ navigation:
   - name: Love&translation
     id: a0ef6cbb-ccf0-46cb-bfde-2ffae5faffca
     type: content
+  - name: Freedom
+    id: ec91e156-4c4f-44dc-80f3-39ff10badeab
+    type: content
 title: Why did you go to the moon ?
 description: The importance of being ashes
