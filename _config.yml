@@ -16,5 +16,8 @@ navigation:
   - name: Friendshop
     id: a52d80c7-9b07-448e-9d79-54789c5b5533
     type: content
+  - name: Conatus
+    id: f561d1f9-438e-4c54-a3cc-33b03eba37f3
+    type: content
 title: Why did you go to the moon ?
 description: The importance of being ashes
