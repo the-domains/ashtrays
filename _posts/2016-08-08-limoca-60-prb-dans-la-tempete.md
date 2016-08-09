@@ -18,8 +18,8 @@ description: >-
   à l'eau.
 app_links: []
 title: L'Imoca 60 PRB dans la tempête
-datePublished: '2016-08-08T12:24:04.771Z'
-dateModified: '2016-08-08T12:24:03.956Z'
+datePublished: '2016-08-09T09:47:38.786Z'
+dateModified: '2016-08-09T09:47:38.047Z'
 via: {}
 sourcePath: _posts/2016-08-08-limoca-60-prb-dans-la-tempete.md
 hasPage: true
