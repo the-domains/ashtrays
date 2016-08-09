@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-08T23:32:10.297Z'
+datePublished: '2016-08-09T09:48:14.290Z'
 sourcePath: _posts/2016-08-08-swazynights.md
 author: []
 via: {}
-dateModified: '2016-08-08T23:32:09.466Z'
+dateModified: '2016-08-09T09:48:13.325Z'
 title: Swazynights
 publisher: {}
 description: >-
