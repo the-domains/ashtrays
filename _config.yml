@@ -19,5 +19,8 @@ navigation:
   - name: Conatus
     id: f561d1f9-438e-4c54-a3cc-33b03eba37f3
     type: content
+  - name: Love&translation
+    id: a0ef6cbb-ccf0-46cb-bfde-2ffae5faffca
+    type: content
 title: Why did you go to the moon ?
 description: The importance of being ashes
