@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-09T09:45:24.449Z'
+datePublished: '2016-08-09T09:47:19.442Z'
 sourcePath: _posts/2016-08-08-alexandra-margnat-e-shop.md
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-09T09:45:23.704Z'
+dateModified: '2016-08-09T09:47:18.418Z'
 title: ''
 app_links: []
 publisher: {}
