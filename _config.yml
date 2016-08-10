@@ -1,8 +1,19 @@
-typography_spectrum: 0.18120756838470697
+title: Why did you go to the moon ?
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.19069998199120164
-  lightness: 0.17410196480341256
   saturation: 0.8505338078830391
+  brandStrength: 0.1906999819912016
   rhythmicContrast: 0.01188473287038505
   brandColors:
     - '#000000'
@@ -10,8 +21,9 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-layout_spectrum: 0.6854826952330768
-name: Ash&trays
+  lightness: 0.1741019648034126
+typography_spectrum: 0.6559139
+description: The importance of being ashes
 navigation:
   - name: Friendshop
     id: a52d80c7-9b07-448e-9d79-54789c5b5533
@@ -25,5 +37,5 @@ navigation:
   - name: Freedom
     id: ec91e156-4c4f-44dc-80f3-39ff10badeab
     type: content
-title: Why did you go to the moon ?
-description: The importance of being ashes
+layout_spectrum: 0.5824373
+name: Ash&trays
