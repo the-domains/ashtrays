@@ -5,23 +5,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.8505338078830391
   brandStrength: 0.1906999819912016
-  rhythmicContrast: 0.01188473287038505
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
   lightness: 0.1741019648034126
+  brandColors:
+    - '#D4D3D9'
+    - '#3C3C3D'
+    - '#DF1818'
+    - '#03070B'
+    - '#996753'
+  rhythmicContrast: 0.01188473287038505
 typography_spectrum: 0.6559139
 description: The importance of being ashes
 navigation:
